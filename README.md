@@ -4,7 +4,7 @@
 
 * **The number of billionaires in the world has quadrupled in the last 20 years. In 2023, there are 2,640 billionaires with a combined net worth of $12.2 trillion. The `United States` has the most billionaires `(735)`, followed by `China (562)`, `India (169)`, `Germany (126)`, and `Russia (105)`. The wealthiest people on the planet are still overwhelmingly male, but the number of women billionaires is increasing. The world's richest woman is `Francoise Bettencourt` Meyers of France, whose grandfather founded beauty giant L'Oréal.**
 
-* **The wealth of billionaires is concentrated in a few industries. The technology sector is home to the most billionaires, followed by finance, retail, and real estate. The richest billionaires made their fortunes in a variety of ways, but the most common paths to wealth are through technology, finance, and manufacturing.**
+* **The wealth of billionaires is concentrated in a few industries. The `technology` sector is home to the most billionaires, followed by finance, retail, and real estate. The richest billionaires made their fortunes in a variety of ways, but the most common paths to wealth are through technology, finance, and manufacturing.**
 
 * **The number of billionaires has declined for two consecutive years, due to a combination of factors including the COVID-19 pandemic and the war in Ukraine. However, the overall wealth of billionaires remains high. The top 10 richest people in the world are worth a combined $593 billion, more than the GDP of most countries.**
 
